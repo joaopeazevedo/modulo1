@@ -1,2 +1,3 @@
 # modulo1
-Atividade referente ao Módulo 1 de Ciência de Dados da EBAC
+Atividade referente ao Módulo 1 de Ciência de Dados da EBAC. 
+Criando projetos com Python
